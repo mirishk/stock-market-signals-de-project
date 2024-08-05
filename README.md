@@ -2,6 +2,9 @@
 
 This project implements a comprehensive data engineering pipeline for stock price analysis and trading signal generation. The pipeline integrates historical stock prices, real-time price updates, sentiment analysis of news, and trading signal notifications.
 
+[View the presentation](final_project_de_presentation.pdf)
+
+
 ## Architecture
 ![final_project_architecture](https://github.com/user-attachments/assets/90176db1-ea92-46b3-8a66-b79c1ea46006)
 
